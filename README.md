@@ -5,4 +5,4 @@
 - Mi investigación explora la dinámica de las aguas subterráneas en salares desde sensores remotos
 - Me considero un furioso ciclista y un escalador feliz
   
-![IMG_1589](https://github.com/user-attachments/assets/c69f77d4-c945-4c64-b6db-348759fa15ea){width=25%}
+![IMG_1589](https://github.com/user-attachments/assets/c69f77d4-c945-4c64-b6db-348759fa15ea)
